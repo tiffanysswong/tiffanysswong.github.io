@@ -467,6 +467,9 @@ h6 {
 
 /*	Toggle Menu
 -------------------------*/
+.hide-nav{
+  display:none;
+}
 .navbar-toggler {
   width: 40px;
   height: 40px;
